@@ -2,7 +2,7 @@
 layout: page
 title: 
 group: navigation
-permalink: "research.html"
+permalink: "aboutme.html"
 ---
 Motivation
 ----------
