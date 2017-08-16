@@ -1,8 +1,6 @@
 ---
 layout: page
-title: 
-group: navigation
-permalink: "aboutme.html"
+title: Our Research 
 ---
 Motivation
 ----------
