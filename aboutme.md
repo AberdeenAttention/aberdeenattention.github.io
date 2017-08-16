@@ -1,16 +1,37 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 
+group: navigation
+permalink: "research.html"
 ---
+Motivation
+----------
 
-My name is Inigo Montoya. I have the following qualities:
+The human body is comprised of a large collection of diverse cell types,
+each providing a specialized and context-specific function. The advent of high-throughput
+single-cell transcriptomics, has enabled unbiased categorization of diverse developmental
+and diseased cellular trajectories. However, with current genome-wide approaches,
+little can be done to understand: i) how cells vary through time, ii) how this variance
+effects cellular decisions and iii) how TFs affect the activity of regulatory elements
+(trans) and, in turn, how these elements lead to functional expression differences (cis).
+Our lab seeks to address these challenges by developing the next-generation of biological
+tools, tools that integrate molecular biology, microscopy and large-scale bioinformatics
+to provide a systems-level understanding of single-cells.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Research Interests
+------------------
 
-What else do you need?
+<h3> Developing new ‘-omic’ technologies </h3>
 
-### my history
+<img alt="scATAC.jpg" align="left" src="media/research/scATAC.jpg" width="250" height="170"/>
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Our group employs a mix set of skills relating to molecular biology, device engineering and microscopy.
+We use these skills to leverage sequencing technologies to make high-throughput measurements that seek to
+better understand gene regulation within living systems. For example, in previous work, we have developed
+<a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.html" target="_blank">RNA-MaP</a> and
+Assay for Transpose Accessible Chromatin (<a href="http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2688.html" target="_blank">ATAC-seq</a>).
+Notably, ATAC-seq has become an increasingly popular method to measure genome-wide chromatin accessibility, i.e. the epigenome.
+Recently, we have also adapted this method to profile the epigenomes of single-cells
+(<a href="http://www.nature.com/nature/journal/v523/n7561/full/nature14590.html" target="_blank">scATAC-seq</a>).
+We are actively developing technological tools for improving the quality and throughput of these measurements,
+as well as integrating scATAC-seq with other single-cell ‘-omic’ measurements.<br><br>
